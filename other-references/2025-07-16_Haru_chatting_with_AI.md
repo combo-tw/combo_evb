@@ -1,7 +1,7 @@
 # 與 AI 做基本規劃的討論
-> 時間: 2025/07/16 上午
-> 地點: 線上
-> 大綱: 與 AI (GPT-4.1) 討論 EVB 開發討論事項
+> - 時間: 2025/07/16 上午
+> - 地點: 線上
+> - 大綱: 與 AI (GPT-4.1) 討論 EVB 開發討論事項
 
 這是一個具有挑戰性又充滿學習價值的專案。建立自己的 EVB（Evaluation Board，評估開發板）並建立相對應的 Open Source Linux Kernel DTS（Device Tree Source）檔案，將有助於 hardware/firmware 開發、生態系推廣以及為開源社群貢獻。
 
