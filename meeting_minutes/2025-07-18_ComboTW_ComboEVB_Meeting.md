@@ -3,7 +3,8 @@
 **會議名稱**：開發板規格討論會議  
 **日期**：2025/07/18（22:00 - 23:00）  
 **出席人員**：Haru、Sean、Darnell、Ben、Mes  
-**紀錄整理**：ChatGPT based on notes from all attendees  
+**紀錄整理**：ChatGPT based on notes from all attendees
+**會議影片**：https://youtu.be/X7MJ4yYxTf0
 
 ---
 
